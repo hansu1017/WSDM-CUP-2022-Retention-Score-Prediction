@@ -20,22 +20,18 @@ WSDM2022留存预测挑战赛 第1名解决方案
 ```
 ./
 ├── README.md
-├── codes
-│   ├── data
-│   ├── features
-│   ├── res
-│   ├── get_features.ipynb
-│   ├── get_sequence.ipynb
-│   ├── cnn_binary_0.ipynb
-│   ├── cnn_binary_7.ipynb
-│   ├── tfdf_online.ipynb
-│   ├── inference.ipynb
-│   ├── function.py
+├── get_features.ipynb
+├── get_sequence.ipynb
+├── cnn_binary_0.ipynb
+├── cnn_binary_7.ipynb
+├── tfdf_online.ipynb
+├── inference.ipynb
+├── function.py
 ```
 
 
 ## **4. 运行流程**
 - 安装环境
-- 将a榜和b榜数据集解压后放到data目录下
-- 依次运行get_features.ipynb，get_sequence.ipynb，cnn_binary_0.ipynb，cnn_binary_7.ipynb，
-tfdf_online.ipynb， inference.ipynb，最终结果生成在在codes/res文件夹中
+- 创建data、features和res文件夹，将a榜和b榜数据集解压后放到data目录下
+- 依次运行get_features.ipynb，get_sequence.ipynb，cnn_binary_0.ipynb，cnn_binary_67.ipynb，
+tfdf_online.ipynb， inference.ipynb，最终结果生成在在res文件夹中

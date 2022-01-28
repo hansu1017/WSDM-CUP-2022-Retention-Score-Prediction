@@ -2,6 +2,7 @@
 WSDM2022留存预测挑战赛 第1名解决方案
 
 赛题链接：http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6
+
 解决方案blog：https://zhuanlan.zhihu.com/p/462736790?
 
 ## **1. 环境配置**
